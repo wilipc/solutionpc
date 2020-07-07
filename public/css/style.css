@@ -1,0 +1,23 @@
+/********/
+.acces-main{
+    height: 100%;
+    width: 100%;
+    padding: 50px 100px 100px 50px;
+}
+.dark-acces{
+    background-color:#272626;
+}
+.fondo-slider{
+    background-color: #121f47c4;
+    min-width: 100%;
+    left: 0;
+    height: 100%;
+}
+.fondo-nav{
+    background-color: #121f47c4;
+}
+.caption-fondo{
+    position: absolute;
+    z-index: 10;
+    text-align: center;
+}
